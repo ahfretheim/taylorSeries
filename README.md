@@ -8,6 +8,8 @@ IMPORTANT: DUE TO A QUIRK IN THE PYTHON PROGRAMMING LANGUAGE, YOU WILL NEED TO:
 1) DEFINE YOUR SYMBOL IN YOUR LOCAL ENVIRONMENT/SCRIPT
 2) LOCALLY IMPORT BOTH SYMBOL AND SYMPY TO COMPLETE (1) AND WRITE YOUR EXPRESSIONS WHEN USING THIS LIBRARY.
 
+Note also, in the below documentation, that the most important and top level functionalities are actually included last, because they depend upon the more basic functionalities described before.
+
 Functions:
     
     factorial - Recursively computes the factorial of an integer. If a 
